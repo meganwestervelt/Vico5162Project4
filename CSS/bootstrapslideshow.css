@@ -1,0 +1,10 @@
+.carousel-caption {
+    bottom: auto;
+    top: 10px;
+    background-color: rgba(76, 175, 80, 0.3);
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+@media (min-width: 0px)
+ 
